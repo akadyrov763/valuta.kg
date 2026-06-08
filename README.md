@@ -1,2 +1,20 @@
-# valuta.kg
-Valuta.kg Dashboard is a financial web app for Kyrgyzstan's banking sector. It tracks real-time bank exchange rates, features smart credit &amp; deposit comparison calculators, and integrates an interactive, AI-driven market trend analyst. Built with React and Tailwind CSS.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/108afc80-2764-4609-8b19-ce6fa45a1f4c
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

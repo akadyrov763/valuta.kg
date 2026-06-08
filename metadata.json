@@ -1,0 +1,8 @@
+{
+  "name": "Valuta.kg Dashboard",
+  "description": "Мониторинг курсов валют банков Кыргызстана на основе valuta.kg, кредитный и депозитный калькуляторы и финансовый AI-аналитик.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
